@@ -1,6 +1,6 @@
 {
     "name": "TeamOfThePing_F2025",
-    "version_number": "1.1.0",
+    "version_number": "1.2.0",
     "website_url": "https://github.com/Pingwinos40/ValheimModpacks",
     "description": "Custom modpack for my Pterodactyl server w/ friends",
     "dependencies": [
@@ -23,6 +23,10 @@
         "MSchmoecker-VNEI-0.17.2",
         "Smoothbrain-Mining-1.1.5",
         "Balrond-balrond_shipyard-1.6.3",
-        "zolantris-ValheimRAFT-4.1.3"
+        "zolantris-ValheimRAFT-4.1.3",
+        "Makaveli23-WindAtYourBack-0.3.2",
+        "zukane-Adjustable_Breeding_Limit-2.0.0",
+        "ValheimModding-JsonDotNET-13.0.4",
+        "shudnal-ConfigurationManager-1.1.12"
     ]
 }

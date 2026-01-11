@@ -2,6 +2,13 @@
 
 All notable changes to the TeamOfThePing_F2025 modpack will be documented in this file.
 
+## [1.2.0] - 2026-01-11
+### Added
+- Added `WindAtYourBack` as a replacement for `OdinShipPlus` windbelts.
+- Added `AdjustableBreedingLimit` to remove the requirement for building unsightly breeding towers.
+- Added `ValheimModding-JsonDotNET` as a dependency.
+- Added `ConfigurationManage` for simplified config editing in-game.
+
 ## [1.1.0] - 2026-01-07
 ### Added
 - Added `ValheimRAFT` to allow for custom-built modular ships.
