@@ -2,6 +2,12 @@
 
 All notable changes to the TeamOfThePing_F2025 modpack will be documented in this file.
 
+
+## [1.2.1] - 2026-01-11
+### Added
+- Added `JereKuusela-Server_devcommands` for better admin controls on a dedicated server
+
+
 ## [1.2.0] - 2026-01-11
 ### Added
 - Added `WindAtYourBack` as a replacement for `OdinShipPlus` windbelts.
